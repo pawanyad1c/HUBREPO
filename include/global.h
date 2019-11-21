@@ -1,0 +1,12 @@
+struct termios new_flag, orignal_flag;
+struct sms obj[20]={0};
+int bug =1;
+int nol = 0;
+const char c='"';
+char cmd[200];
+char path[100];
+pthread_t thread_id[4];
+void *join;
+char readbuf[BUFSIZE];
+struct sqldata sqld;
+int interrupt_flag=1;

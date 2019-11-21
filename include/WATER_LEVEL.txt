@@ -1,0 +1,9 @@
+Train: 12226
+Rake: 12225/12226-1
+Coach ID: 192043
+Coach: B2
+Next Stn: GZB
+Dist:19.76Km
+Event: WATER LEVEL IS MEDIUM
+Loc: 28.397,77.136
+Time: 05/09/19 03:43
